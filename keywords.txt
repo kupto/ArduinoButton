@@ -1,0 +1,33 @@
+# Datatypes (KEYWORD1)
+Debouncer	KEYWORD1
+
+Button	KEYWORD1
+Polarity	KEYWORD1
+Resistor	KEYWORD1
+Button	KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+reset	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+wasOn	KEYWORD2
+wasOff	KEYWORD2
+setCoolDown	KEYWORD2
+
+begin	KEYWORD2
+update	KEYWORD2
+click	KEYWORD2
+attachInterrupt	KEYWORD2
+state	KEYWORD2
+wasPressed	KEYWORD2
+wasReleased	KEYWORD2
+setDebounceTimeout	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
+NoInvert	LITERAL1
+Invert	LITERAL1
+NoPull	LITERAL1
+Pullup	LITERAL1
